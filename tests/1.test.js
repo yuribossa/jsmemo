@@ -1,4 +1,8 @@
 
+/**
+ * use nodeunit
+ */
+
 exports.testNot = {
 "!false": function(test) {
            test.ok(!false);

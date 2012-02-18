@@ -1,4 +1,8 @@
 
+###
+# use nodeunit
+###
+
 exports.testHatena = {
     "false?": (test) ->
         x = false
